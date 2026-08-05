@@ -23,12 +23,10 @@
 ## `>> whoami`
 
 I'm Alberto, a high school student in Florence. I write Python, and I spend the rest
-of my time convincing hardware that it isn't finished yet: phones that stopped getting
-updates years ago, consoles everyone else put in a drawer, anything with a bootloader
-and a stubborn streak.
-
-Most of what I learn comes from breaking something first. This profile is where the
-working half ends up.
+of my time reviving old dead tech: phones that stopped getting
+updates years ago, random wiis i got off marketplace, basically anything.
+Most of what I learn comes from breaking something first. 
+Here i pour most of my learning junk.
 
 ```python
 class Alberto:
@@ -62,11 +60,8 @@ class Alberto:
 |---|---|---|
 | Old Android phones | unlock, custom recovery, custom ROM | daily hobby |
 | Nintendo Wii | homebrew channel, USB loading, media box | alive and useful |
-| Random dev boards | Python + serial, small automations | ongoing |
-| Dead batteries & bad flash | learning what *not* to do | educational |
+| Random desktop apps | Python, small automations | ongoing |
 
-Rules I actually follow: back up the stock firmware first, read the whole thread before
-flashing, and never touch a partition I can't explain.
 
 </details>
 
@@ -101,7 +96,7 @@ flashing, and never touch a partition I can't explain.
 
 ---
 
-## `>> the snake eats the commits`
+## `>> slurp`
 
 <div align="center">
 
