@@ -112,7 +112,7 @@ class Alberto:
 
 [![Email](https://img.shields.io/badge/Email-12151A?style=for-the-badge&logo=gmail&logoColor=A4C463)](mailto:alberto.cammilli08@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-12151A?style=for-the-badge&logo=telegram&logoColor=7FDCFF)](https://t.me/@albertocammilli)
-[![Reddit](https://img.shields.io/badge/Reddit-12151A?style=for-the-badge&logo=reddit&logoColor=A4C463)](https://reddit.com/user/@albertocammilli)
+[![Reddit](https://img.shields.io/badge/Reddit-12151A?style=for-the-badge&logo=reddit&logoColor=A4C463)](https://reddit.com/user/@Willing-Chair-5254)
 
 <br>
 
