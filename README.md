@@ -14,7 +14,7 @@
 ![Linux](https://img.shields.io/badge/Linux-12151A?style=for-the-badge&logo=linux&logoColor=A4C463)
 ![Git](https://img.shields.io/badge/Git-12151A?style=for-the-badge&logo=git&logoColor=7FDCFF)
 
-<img src="https://komarev.com/ghpvc/?username=Alberto Cammilli&style=flat-square&color=a4c463&label=BOOT+COUNT" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=albertocammilli&style=flat-square&color=a4c463&label=BOOT+COUNT" alt="Profile views">
 
 </div>
 
@@ -49,7 +49,7 @@ class Alberto:
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,github,androidstudio,arduino,raspberrypi,vscode&theme=dark&perline=11)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=python,bash,git,github,androidstudio,vscode,pycharm&theme=dark&perline=11)](https://skillicons.dev)
 
 </div>
 
@@ -76,9 +76,9 @@ flashing, and never touch a partition I can't explain.
 
 - [x] Comfortable with Python — files, scripts, small tools that save me time
 - [x] First phone fully rooted and running a custom ROM without bricking it
-- [ ] A Python tool to automate the boring parts of my flashing workflow
+- [x] A Python tool to automate the boring parts of my flashing workflow
 - [ ] Learn enough C to stop treating firmware as a black box
-- [ ] Wii homebrew project worth putting in its own repo
+- [x] Wii homebrew project worth putting in its own repo
 
 ---
 
@@ -86,16 +86,16 @@ flashing, and never touch a partition I can't explain.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alberto Cammilli&show_icons=true&hide_border=true&title_color=A4C463&icon_color=7FDCFF&text_color=C9D1D9&bg_color=12151A&include_all_commits=true&rank_icon=github" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto Cammilli&layout=compact&hide_border=true&title_color=A4C463&text_color=C9D1D9&bg_color=12151A&langs_count=8" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=albertocammilli&show_icons=true&hide_border=true&title_color=A4C463&icon_color=7FDCFF&text_color=C9D1D9&bg_color=12151A&include_all_commits=true&rank_icon=github" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertocammilli&layout=compact&hide_border=true&title_color=A4C463&text_color=C9D1D9&bg_color=12151A&langs_count=8" alt="Top languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Alberto Cammilli&hide_border=true&background=12151A&stroke=3D444D&ring=A4C463&fire=7FDCFF&currStreakLabel=A4C463&sideLabels=C9D1D9&dates=71808F&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Commit streak">
+<img src="https://streak-stats.demolab.com?user=albertocammilli&hide_border=true&background=12151A&stroke=3D444D&ring=A4C463&fire=7FDCFF&currStreakLabel=A4C463&sideLabels=C9D1D9&dates=71808F&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Commit streak">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alberto Cammilli&bg_color=12151A&color=A4C463&line=7FDCFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=albertocammilli&bg_color=12151A&color=A4C463&line=7FDCFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" width="95%">
 
 </div>
 
@@ -105,7 +105,7 @@ flashing, and never touch a partition I can't explain.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alberto Cammilli/Alberto Cammilli/output/snake.svg" alt="Snake eating my contribution graph">
+<img src="https://raw.githubusercontent.com/albertocammilli/albertocammilli/output/snake.svg" alt="Snake eating my contribution graph">
 
 </div>
 
